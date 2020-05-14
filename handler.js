@@ -34,7 +34,7 @@ module.exports.exec = async req => {
         open("POST", hook);
     xhr.
         setRequestHeader("Content-Type", "application/json;charset=UTF-8");
-    xhr.
+    await xhr.
         send(JSON.stringify({content})
     );
 
