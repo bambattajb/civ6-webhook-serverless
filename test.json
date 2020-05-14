@@ -1,0 +1,8 @@
+{
+    "body" :
+    {
+        "value1": "[game name]",
+        "value2": "[player name]",
+        "value3": "[game turn number]"
+    }
+}
