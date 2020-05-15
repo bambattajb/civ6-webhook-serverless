@@ -1,4 +1,4 @@
-##Civilization 6 Webhook to Discord
+# Civilization 6 Webhook to Discord
 A simple webhook handler for Civilization 6 designed to be hosted as a serverless function.
 
 ### Usage
